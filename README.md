@@ -9,3 +9,6 @@ Simple tool for convert html template to django template
 2) place html2dj.py inside the html template folder (folder contains html files)
 
 3) python html2dj.py
+
+
+## Note: Change the parameter of the startwith function, Default value is 'assests'
