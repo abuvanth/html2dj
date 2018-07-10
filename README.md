@@ -6,6 +6,6 @@ Simple tool for convert html template to django template
 
 1) pip install bs4
 
-2) place html2dj.py inside the html template folder
+2) place html2dj.py inside the html template folder (folder contains html files)
 
 3) python html2dj.py
