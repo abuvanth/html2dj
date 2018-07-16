@@ -12,3 +12,5 @@ Simple tool for convert html template to django template
 
 
 ## Note: Change the parameter of the startwith function, Default value is 'assests'
+
+## assets should be changed to js if the root folder of js file is 'js' and also image, css respectively
